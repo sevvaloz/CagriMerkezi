@@ -1,0 +1,22 @@
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.exe.config
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.exe
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.pdb
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.AssemblyReference.cache
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.SuggestedBindingRedirects.cache
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.cagriMerkeziForm.resources
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.Properties.Resources.resources
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.GenerateResource.cache
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.CoreCompileInputs.cache
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.exe
+C:\Users\holly\Desktop\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.pdb
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.exe.config
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.exe
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\bin\Debug\CagriMerkezi.pdb
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.AssemblyReference.cache
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.SuggestedBindingRedirects.cache
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.cagriMerkeziForm.resources
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.Properties.Resources.resources
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.GenerateResource.cache
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.csproj.CoreCompileInputs.cache
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.exe
+C:\Users\holly\Documents\.PROJELERİM\C# projeleri\CagriMerkezi\CagriMerkezi\obj\Debug\CagriMerkezi.pdb
